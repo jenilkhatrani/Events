@@ -22,3 +22,17 @@ This Flutter app integrates Firebase Authentication for user sign-in, utilizing 
 - **Provider / Getx**: State management solutions for managing app state and data flow.
 - **HTTP package**: For making HTTP requests to external APIs.
 - **Dart**: Programming language for building Flutter apps.
+
+
+## Contributing
+
+We welcome contributions to improve the app! If you find any bugs, want to add new features, or suggest improvements, feel free to fork the repository and submit a pull request. Here are some guidelines for contributing:
+
+### Steps for Contributing:
+
+1. **Fork the repository**: Click on the "Fork" button on the top right of the repository page to create your own copy of the repository.
+2. **Clone the repository**: Clone your forked repository to your local machine using the following command:
+
+  ```bash
+   git clone https://github.com/yourusername/flutter-firebase-integration-app.gi
+   
