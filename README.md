@@ -1,16 +1,24 @@
-# firebase
+# Events
 
-A new Flutter project.
+This Flutter app integrates Firebase Authentication for user sign-in, utilizing Firebase Firestore for real-time data storage. It also employs an SQLite database to manage offline data storage locally. The app communicates with external APIs to fetch and sync data with the cloud, ensuring real-time updates. State management in the app is handled using providers or Riverpod to manage app state efficiently. All components work seamlessly together to create a smooth, interactive, and scalable app experience.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- **Firebase Authentication**: Secure login and sign-up using Firebase Authentication.
+- **Firestore**: Real-time data synchronization and cloud storage using Firebase Firestore.
+- **SQLite**: Local database for offline data storage and management.
+- **API Integration**: Fetch and sync data from external APIs.
+- **State Management**: Efficient app state management using **Provider** or **Getx**.
+- **Responsive UI**: Smooth and interactive user interface optimized for both mobile and tablet screens.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Project Technologies
+
+- **Flutter**: Framework for building cross-platform mobile apps.
+- **Firebase Authentication**: Authentication service for secure user management.
+- **Firestore**: NoSQL cloud database for real-time data storage.
+- **SQLite**: Local database for offline storage.
+- **Provider / Getx**: State management solutions for managing app state and data flow.
+- **HTTP package**: For making HTTP requests to external APIs.
+- **Dart**: Programming language for building Flutter apps.
